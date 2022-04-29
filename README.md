@@ -1,6 +1,5 @@
-### Hi there I'm <Jose Ramon/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" alt="waving hand" />
+### Hi there I'm <Jose Ramon/> <img src="./images/hi.gif">
 ***
-
 <!--
 **jr-cast/jr-cast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

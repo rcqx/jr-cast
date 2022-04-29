@@ -1,4 +1,4 @@
-### Hi there I'm <Jose Ramon/> <img src="./images/hi.gif">
+### Hi there I'm <Jose Ramon/> <img src="./images/hi.gif" style="width: 20px">
 ***
 <!--
 **jr-cast/jr-cast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

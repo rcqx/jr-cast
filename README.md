@@ -1,6 +1,6 @@
 # Hola, I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/>
 
-### More about me
+### About me
 ```javascript
 const joseRamon = {
   jobTitle: "Full-Stack Web Developer",

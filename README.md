@@ -17,4 +17,3 @@ const joseRamon = {
 };
 ```
 ## Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345&theme=discord_old_blurple)

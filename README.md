@@ -18,3 +18,5 @@ const joseRamon = {
 ```
 ### Stats
 [![JoseRamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jr-cast&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jr-cast.visitor-badge)

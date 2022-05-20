@@ -1,4 +1,4 @@
-# Hola, I'm Jose Ramon <img src="./images/hi.gif" style="width: 1px"/>
+# Hola, I'm Jose Ramon 👋
 
 ### About me
 ```javascript

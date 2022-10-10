@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <h1 align="center"> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
 <h3 align="center"> A full-stack developer who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h3>
+=======
+# Hola, I'm Jose Ramon 👋
+>>>>>>> 7d91950eb698762b547df554e074af249d508546
 
 ---
 
@@ -24,4 +28,8 @@ const joseRamon = {
 
 [![JoseRamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jr-cast&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
+<<<<<<< HEAD
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jr-cast.visitor-badge)
+=======
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jr-cast.visitor-badge)
+>>>>>>> 7d91950eb698762b547df554e074af249d508546

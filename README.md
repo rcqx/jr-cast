@@ -1,5 +1,5 @@
 <h1 align="center"> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
-<h3 align="center"> A full-stack developer who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h3>
+<h3 align="center"> A full-stack dev who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h3>
 
 ---
 

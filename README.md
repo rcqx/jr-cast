@@ -39,7 +39,7 @@ const joseRamon = {
   <img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
   <img height="45" src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png" alt="Rspec" title="Rspec" />
   <img height="45" src="https://cdn-icons-png.flaticon.com/512/311/311523.png" alt="Capybara" title="Capybara" />
-  <img height="45" src="https://plugins.jetbrains.com/files/13691/235459/icon/pluginIcon.png" alt="Selenium" title="Selenium" />
+  <img height="45" src="https://cdn-icons-png.flaticon.com/512/5936/5936927.png" alt="Selenium" title="Selenium" />
 	<img height="45" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
 </div>
 </p>

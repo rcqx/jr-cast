@@ -10,9 +10,9 @@ const joseRamon = {
   company: "Open to new opportunities and challenges!",
   education: "I have a barchelor's degree in Mechanical Engineering and a master in Design",
   skills: {
-    frontend: ["HTML5/CSS3", "JavaScript", "Ruby", "React", "Redux", "Bootstrap", "Tailswind CSS"],
+    frontend: ["HTML5/CSS3", "JavaScript", "Ruby", "React", "Redux", "Bootstrap", "TailwindCSS"],
     backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "Transact-SQL", "API development and documentation"],
-    others: ["TDD/BDD", "Pair programming", "Remote collaboration", "Git", "Git-flow", "Project MGMT", "Agile/extreme programming"]
+    others: ["TDD/BDD", "Pair programming", "Remote collaboration", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Learning new frameworks", "Videogames", "Open-source", "Traveling", "Guitar"],
   currentlyLearning: ["threejs", "IFCjs"],

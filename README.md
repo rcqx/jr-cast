@@ -15,7 +15,7 @@ const joseRamon = {
     others: ["TDD/BDD", "Pair programming", "Remote work", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Learning new frameworks", "Videogames", "Open-source", "Traveling", "Guitar"],
-  currentlyLearning: ["TypeScript", "Express", "ThreeJS"],
+  currentlyLearning: ["TypeScript", "Express", "ThreeJS", "IFCjs"],
   funFact: ["I find british sitcoms such as Red Dwarf and Blackadder really funny!"]
 };
 ```

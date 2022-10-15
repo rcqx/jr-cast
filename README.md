@@ -1,7 +1,7 @@
 <h1> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
 <h3> A full-stack dev who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h3>
 
-<iframe title="avatar" style="width: 100%; height: 100%; overflow: none;" src="https://jr-cast-avatar.netlify.app/" frameBorder="0" />
+<iframe title="avatar" style="width: 100%; height: 100%; overflow: none;" src="https://jr-cast-avatar.netlify.app/" frameBorder="0"></iframe>
 
 ---
 

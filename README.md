@@ -1,6 +1,8 @@
 <h1> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
 <h3> A full-stack dev who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h3>
 
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQFqBMynPj38bA/profile-displaybackgroundimage-shrink_350_1400/0/1663721101987?e=1671667200&v=beta&t=I6_dWxlOUCSdc4qEnJarJNtbloAwzKzsni1k7BxurjQ" alt="Banner" />
+
 ---
 
 ## About me

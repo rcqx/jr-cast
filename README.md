@@ -1,6 +1,6 @@
 <h1> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
-<h4> A full-stack dev who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h4>
-<h4>Check out my portfolio👨‍💻--></h4> <a href="https://jr-cast.dev/">jr-cast-dev</a>
+<h3> A full-stack dev who enjoys building web applications with JavaScript, Ruby on Rails, React & Redux.</h3>
+
 ---
 
 ## About me
@@ -19,6 +19,8 @@ const joseRamon = {
   funFact: ["I find british sitcoms such as Red Dwarf and Blackadder really funny!"]
 };
 ```
+<h2 align="left">Portfolio</h2>
+<a href="jr-cast.dev>jr-cast-dev</a>
 <h2 align="left">Skills</h2>
 <p align="left">
 <div>

@@ -20,7 +20,7 @@ const joseRamon = {
 };
 ```
 <h2 align="left">Portfolio</h2>
-<a href="jr-cast.dev">jr-cast-dev</a>
+<a href="https://jr-cast.dev/">jr-cast-dev</a>
 	 
 <h2 align="left">Skills</h2>
 <p align="left">

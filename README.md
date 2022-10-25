@@ -23,6 +23,8 @@ const joseRamon = {
 <h3><a href="https://jr-cast.dev/">jr-cast.dev</a></h3>
 
 ## Certificates & Licenses
+<a href="https://courses.edx.org/certificates/7c79b94631864317ac547637f10d26df" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png" width="80"></a>
+<a href="https://courses.edx.org/certificates/b632d580de7a4d059b545859aa346895" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png" width="80"></a>
 <a href="https://www.credential.net/9957a1a2-3ea6-485c-8636-0d5466403622" target= "blank"><img 
 src="https://templates.images.credential.net/15834231169533149351764588695625.png" width="80"></a>
 <a href="https://www.credential.net/b6d9a00f-944a-4132-946e-3fc113a93927" target= "blank"><img 
@@ -32,10 +34,6 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 <a href="https://www.credential.net/6eaa3141-20c7-4fdc-97f9-cfc35728f69a" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
 <a href="https://www.credential.net/0be2013f-6dcb-4a9d-9eee-1017d5dcd66a" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
 <a href="https://www.credential.net/0c2a8183-f8e7-4590-a0ed-1c118a804b68" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="80"></a>
-<a href="https://courses.edx.org/certificates/7c79b94631864317ac547637f10d26df" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png" width="80"></a>
-<a href="https://courses.edx.org/certificates/b632d580de7a4d059b545859aa346895" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png" width="80"></a>
-
-https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png
 
 <h2 align="left">Skills</h2>
 <p align="left">

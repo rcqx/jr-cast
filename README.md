@@ -21,7 +21,18 @@ const joseRamon = {
 ```
 <h2 align="left">Portfolio</h2>
 <h3><a href="https://jr-cast.dev/">jr-cast.dev</a></h3>
-	 
+
+## Certificates & Licenses
+<a href="https://www.credential.net/fd9ad20c-809d-4fe9-977b-d150c8c6d5d9" target= "blank"><img 
+src="https://templates.images.credential.net/15834231169533149351764588695625.png" width="80"></a>
+<a href="https://www.credential.net/a529cdb0-a5c1-49ca-a948-7c4604dd488f" target= "blank"><img 
+src="https://templates.images.credential.net/15790421063942253832023806501758.png" width="80"></a>
+<a href="https://www.credential.net/c41c2a65-5abd-4ab4-93b0-9d6bdabfe4f8" target= "blank"><img 
+src="https://templates.images.credential.net/15790420075846753839720457960174.png" width="80"></a>
+<a href="https://www.credential.net/deedcc82-1863-421e-a302-e97f49f5662d" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
+<a href="https://www.credential.net/18e91d6a-98c7-4440-84e0-b6cd5c921765" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
+<a href="https://www.credential.net/81d518b7-755a-4406-ac51-494166219b00" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="80"></a>
+
 <h2 align="left">Skills</h2>
 <p align="left">
 <div>

@@ -11,9 +11,8 @@ const joseRamon = {
     backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "Transact-SQL", "API development and documentation"],
     others: ["TDD/BDD", "Pair programming", "Remote work", "Git", "Git-flow", "Agile/extreme programming"]
   },
-  hobbies_and_interests: ["Learning new frameworks", "Videogames", "Open-source", "Traveling", "Guitar"],
-  currentlyLearning: ["TypeScript", "Express", "ThreeJS", "IFCjs"],
-  funFact: ["I find british sitcoms such as Red Dwarf and Blackadder really funny!"]
+  hobbies_and_interests: ["Learning", "Videogames", "Open-source", "Traveling", "Guitar"],
+  currentlyLearning: ["Express", "ThreeJS", "IFCjs", Gravity],
 };
 ```
 <h2 align="left">Portfolio</h2>

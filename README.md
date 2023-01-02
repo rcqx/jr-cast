@@ -12,7 +12,7 @@ const joseRamon = {
     others: ["TDD/BDD", "Pair programming", "Remote work", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Learning", "Videogames", "Open-source", "Traveling", "Guitar"],
-  currentlyLearning: ["Express", "ThreeJS", "IFCjs", Gravity],
+  currentlyLearning: [Express, ThreeJS, IFCjs, Gravity],
 };
 ```
 <h2 align="left">Portfolio</h2>

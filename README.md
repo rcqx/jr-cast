@@ -1,6 +1,5 @@
 <h1> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
 
-## About me
 ```javascript
 const joseRamon = {
   jobTitle: "Full-Stack Developer",
@@ -30,29 +29,6 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 <a href="https://www.credential.net/6eaa3141-20c7-4fdc-97f9-cfc35728f69a" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
 <a href="https://www.credential.net/0be2013f-6dcb-4a9d-9eee-1017d5dcd66a" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
 <a href="https://www.credential.net/0c2a8183-f8e7-4590-a0ed-1c118a804b68" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="80"></a>
-
-<h2 align="left">Skills</h2>
-<p align="left">
-<div>
-	<img height="45" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
-	<img height="45" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
-  	<img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
-  <img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
-	<img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" title="Redux" />
-  <img height="45" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="Rails" title="Rails" />
-	<img height="45" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="TailwindCSS" title="TailwindCSS" />
-	<img height="45" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
-	<img height="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" title="Postman" />
-	<img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
-	<img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
-	<img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
-  <img height="45" src="https://warrenlafrance.files.wordpress.com/2020/01/tsql-icon.png?w=207" alt="T-sql" title="T-sql" />
-  <img height="45" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
-  <img height="45" src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png" alt="Rspec" title="Rspec" />
-  <img height="45" src="https://cdn-icons-png.flaticon.com/512/311/311523.png" alt="Capybara" title="Capybara" />
-	<img height="45" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
-</div>
-</p>
 
 ## Stats
 

@@ -1,7 +1,5 @@
 <h1> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
 
-<div style="display: flex; height: 350px;">
-
 ```javascript
 const joseRamon = {
   jobTitle: "Full-Stack Developer",
@@ -16,10 +14,6 @@ const joseRamon = {
   currentlyLearning: [Express, ThreeJS, IFCjs, Gravity],
 };
 ```
-
-[![Avatar](./images/avatar.png)](https://jr-cast-avatar.netlify.app/)
-
-</div>
 
 <h2 align="left">Portfolio</h2>
 <h3><a href="https://jr-cast.dev/">jr-cast.dev</a></h3>

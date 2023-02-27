@@ -20,8 +20,8 @@ const joseRamon = {
 
 ## Certificates & Licenses
 
-<a href="https://courses.edx.org/certificates/7c79b94631864317ac547637f10d26df" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png" width="60"></a>
-<a href="https://courses.edx.org/certificates/b632d580de7a4d059b545859aa346895" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Stanford_University_seal_2003.svg/1200px-Stanford_University_seal_2003.svg.png" width="60"></a>
+<a href="https://courses.edx.org/certificates/7c79b94631864317ac547637f10d26df" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/800px-Stanford_Cardinal_logo.svg.png" width="60"></a>
+<a href="https://courses.edx.org/certificates/b632d580de7a4d059b545859aa346895" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/800px-Stanford_Cardinal_logo.svg.png" width="60"></a>
 <a href="https://www.credential.net/9957a1a2-3ea6-485c-8636-0d5466403622" target= "blank"><img 
 src="https://templates.images.credential.net/15834231169533149351764588695625.png" width="60"></a>
 <a href="https://www.credential.net/b6d9a00f-944a-4132-946e-3fc113a93927" target= "blank"><img 

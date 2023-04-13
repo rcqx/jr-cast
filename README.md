@@ -6,7 +6,7 @@ const joseRamon = {
   company: "Open to new opportunities and challenges!",
   education: "I have a barchelor's degree in Engineering and a master in Design, Education and Tech",
   skills: {
-    frontend: ["HTML5/CSS3", "Vanilla JavaScript", "React", "Redux", "Bootstrap", "TailwindCSS", "StyledComponents"],
+    frontend: ["HTML5/CSS3", "JavaScript", "React", "Redux", "Bootstrap", "TailwindCSS", "StyledComponents"],
     backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "T-SQL", "mongoDB", "API development and documentation"],
     others: ["TDD/BDD", "Pair programming", "Remote work", "Git", "Git-flow", "Agile/extreme programming"]
   },

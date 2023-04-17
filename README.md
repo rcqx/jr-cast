@@ -3,11 +3,11 @@
 ```javascript
 const joseRamon = {
   jobTitle: "Full-Stack Developer",
-  company: "Open to new opportunities and challenges!",
+  company: "Currently @ GSD but open to new opportunities and challenges!",
   education: "I have a barchelor's degree in Engineering and a master in Design, Education and Tech",
   skills: {
-    frontend: ["HTML5/CSS3", "JavaScript", "React", "Redux", "Bootstrap", "TailwindCSS", "StyledComponents"],
-    backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "T-SQL", "mongoDB", "API development and documentation"],
+    frontend: ["HTML5/CSS3", "JavaScript ES6+", "React", "Redux", "Bootstrap", "Tailwind", "StyledComponents"],
+    backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "T-SQL", "MongoDB", "API development and documentation"],
     others: ["TDD/BDD", "Pair programming", "Remote work", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Learning", "Videogames", "Open-source", "Traveling", "Guitar"],
@@ -32,8 +32,4 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 <a href="https://www.credential.net/0be2013f-6dcb-4a9d-9eee-1017d5dcd66a" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="60"></a>
 <a href="https://www.credential.net/0c2a8183-f8e7-4590-a0ed-1c118a804b68" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="60"></a>
 
-## Stats
-
 [![JoseRamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jr-cast&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jr-cast.visitor-badge)

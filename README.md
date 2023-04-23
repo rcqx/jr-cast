@@ -3,7 +3,7 @@
 ```javascript
 const joseRamon = {
   jobTitle: "Full-Stack Developer",
-  company: "Currently @ GSD but open to new opportunities and challenges!",
+  company: "Currently @ GSD and open to new opportunities and challenges!",
   education: "I have a barchelor's degree in Engineering and a master in Design, Education and Tech",
   skills: {
     frontend: ["HTML5/CSS3", "JavaScript ES6+", "React", "Redux", "Bootstrap", "Tailwind", "StyledComponents"],

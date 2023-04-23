@@ -1,4 +1,4 @@
-<h1> Hola! I'm Jose Ramon <img src="./images/hi.gif" style="width: 30px"/> </h1>
+<h1> Hola! <img src="./images/hi.gif" style="width: 30px"/> </h1>
 
 ```javascript
 const joseRamon = {

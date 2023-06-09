@@ -4,7 +4,7 @@ const joseRamon = {
   education: "BSc in Engineering, master's in Design, Education and Tech",
   skills: {
     frontend: ["JavaScript ES6+", "React", "Redux", "Bootstrap", "Tailwind", "StyledComponents"],
-    backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "T-SQL", "MongoDB", "Express.js" "API development and documentation"],
+    backend: ["Ruby on Rails", "PostgreSQL", "MySQL" "T-SQL", "MongoDB", "Express.js" "API development"],
     others: ["TDD/BDD", "Pair programming", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Football", "Videogames", "Open-source", "Traveling", "Guitar", "Gym"],

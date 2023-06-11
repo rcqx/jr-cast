@@ -17,7 +17,7 @@ const joseRamon = {
 
 ## Certificates & Licenses
 
-<a href="https://courses.edx.org/certificates/8641250b17fb4f4897470c306bdf9e04_gl=1*xx7wsv*_ga*MTA3MzIyODg0Ny4xNjg1MzgwNTA3*_ga_D3KS4KMDT0*MTY4NjUxNjMwNS4zMi4xLjE2ODY1MTY4OTEuMC4wLjA." target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" width="40"></a>
+<a href="https://courses.edx.org/certificates/8641250b17fb4f4897470c306bdf9e04?_gl=1*xx7wsv*_ga*MTA3MzIyODg0Ny4xNjg1MzgwNTA3*_ga_D3KS4KMDT0*MTY4NjUxNjMwNS4zMi4xLjE2ODY1MTY4OTEuMC4wLjA." target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" width="70"></a>
 <a href="https://courses.edx.org/certificates/7c79b94631864317ac547637f10d26df" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/800px-Stanford_Cardinal_logo.svg.png" width="40"></a>
 <a href="https://courses.edx.org/certificates/b632d580de7a4d059b545859aa346895" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/800px-Stanford_Cardinal_logo.svg.png" width="40"></a>
 <a href="https://www.credential.net/9957a1a2-3ea6-485c-8636-0d5466403622" target= "blank"><img 

@@ -8,7 +8,7 @@ const joseRamon = {
     others: ["TDD/BDD", "Pair programming", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Football", "Videogames", "Open-source", "Traveling", "Guitar", "Gym"],
-  currentlyLearning: [ThreeJS, IFCjs, Gravity],
+  currentlyLearning: [ThreeJS, IFCjs, openai API],
 };
 ```
 

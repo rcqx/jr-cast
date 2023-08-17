@@ -3,12 +3,12 @@ const joseRamon = {
   company: "Currently @ GSD but open to new opportunities",
   education: "BSc in Engineering, master's in Design, Education and Tech",
   skills: {
-    frontend: ["JavaScript ES6+", "React", "Redux", "Bootstrap", "Tailwind", "StyledComponents"],
+    frontend: ["JavaScript", "typescript", "ES6+", "React", "Redux", "Tailwind", "ChakraUI", "StyledComponents"],
     backend: ["Node", "RoR", "PostgreSQL", "MySQL" "MSSQL", "MongoDB", "Express.js" "API development"],
     others: ["TDD/BDD", "Pair programming", "Git", "Git-flow", "Agile/extreme programming"]
   },
   hobbies_and_interests: ["Football", "Videogames", "Open-source", "Traveling", "Guitar", "Gym"],
-  currentlyLearning: [ThreeJS, IFCjs, openaiAPI],
+  currentlyLearning: [ThreeJS, Nextjs, openaiAPI],
 };
 ```
 

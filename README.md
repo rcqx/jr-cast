@@ -2,8 +2,8 @@
 const jr-cast = {
   education: "BSc in Engineering, master's in Design",
   skills: {
-    frontend: ["JavaScript", "TypeScript", "ES6+", "React", "Redux", SASS, "Tailwind", StyledComponents"],
-    backend: ["Node", "RoR", "PostgreSQL", "MySQL" "MSSQL", "MongoDB", "Express.js" "API development"],
+    frontend: ["JavaScript", "TypeScript", "ES6+", "React", "Redux", "SASS", "Tailwind", "StyledComponents"],
+    backend: ["Node", "RoR", "PostgreSQL", "MySQL", "MSSQL", "MongoDB", "Express.js", "API development"],
     others: ["TDD/BDD", "Pair programming", "Git", "Git-flow", "Agile/extreme programming"]
   },
   currentlyLearning: [ThreeJS, Nextjs, openaiAPI],

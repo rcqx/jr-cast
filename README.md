@@ -1,20 +1,14 @@
 ```javascript
-const joseRamon = {
-  company: "Currently @ GSD but open to new opportunities",
-  education: "BSc in Engineering, master's in Design, Education and Tech",
+const jr-cast = {
+  education: "BSc in Engineering, master's in Design",
   skills: {
-    frontend: ["JavaScript", "typescript", "ES6+", "React", "Redux", "Tailwind", "ChakraUI", "StyledComponents"],
+    frontend: ["JavaScript", "TypeScript", "ES6+", "React", "Redux", SASS, "Tailwind", StyledComponents"],
     backend: ["Node", "RoR", "PostgreSQL", "MySQL" "MSSQL", "MongoDB", "Express.js" "API development"],
     others: ["TDD/BDD", "Pair programming", "Git", "Git-flow", "Agile/extreme programming"]
   },
-  hobbies_and_interests: ["Football", "Videogames", "Open-source", "Traveling", "Guitar", "Gym"],
   currentlyLearning: [ThreeJS, Nextjs, openaiAPI],
 };
 ```
-
-<h2 align="left">Portfolio</h2>
-<h3><a href="https://jr-cast.dev/">jr-cast.dev</a></h3>
-
 ## Certificates & Licenses
 
 <a href="https://courses.edx.org/certificates/8641250b17fb4f4897470c306bdf9e04?_gl=1*xx7wsv*_ga*MTA3MzIyODg0Ny4xNjg1MzgwNTA3*_ga_D3KS4KMDT0*MTY4NjUxNjMwNS4zMi4xLjE2ODY1MTY4OTEuMC4wLjA." target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" width="60"></a>
